@@ -50,6 +50,7 @@ router.post('/video', function(req,res){
     }
   });
 
+
 });
 router.put('/video/:id',function(req,res){
   console.log("Updating a video");
