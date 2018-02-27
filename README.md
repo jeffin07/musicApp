@@ -1,6 +1,6 @@
 # MusicApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
+This project is for a listening to our own favourite video songs which has been stored in a database. it will display the list of songs and it's little discription.This project is my first to try on mean stack development hope it works :)
 
 ## Development server
 
